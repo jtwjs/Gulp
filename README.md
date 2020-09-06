@@ -1,2 +1,0 @@
-# Gulp
-Learning Gulp
