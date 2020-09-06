@@ -1,0 +1,15 @@
+@import "_reset";
+@import "_variables";
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: $red;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}

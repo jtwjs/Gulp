@@ -1,0 +1,7 @@
+node_modules
+# dotenv enviroment variables file
+.env
+
+# next.js build output
+.next
+build/
